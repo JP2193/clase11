@@ -5,3 +5,8 @@
 .bg-primary {
     background-color: violet !important;
 }
+
+.carousel-inner {
+    width: 50%;
+    margin: 0 auto;
+}
